@@ -10,7 +10,7 @@
 [6. Выводы](#выводы) 
 
 
-![Иллюстрация](https://github.com/artem-75/My-DS-projects/blob/main/Project_1/binary%20search.jpg)
+![Иллюстрация](https://github.com/artem-75/DS_skillfactory_projects/blob/main/Project_1/binary%20search.jpg)
 
 
 ## Описание проекта   

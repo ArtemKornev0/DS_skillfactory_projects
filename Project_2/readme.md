@@ -10,7 +10,7 @@
 [6. Выводы](#выводы) 
 
 
-![Иллюстрация](https://github.com/artem-75/My-DS-projects/blob/main/Project_2/castomers_dep.jpg)
+![Иллюстрация](https://github.com/artem-75/DS_skillfactory_projects/blob/main/Project_2/castomers_dep.jpg)
 
 
 ## **Описание проекта**   
