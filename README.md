@@ -9,3 +9,4 @@ From the Skillfactory Data Science course
 * [Project 2. Analysis of the outflow of bank customers](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_2)
 * [Project 3. Connecting two excel databases. A simple task.](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_3)
 * [Projact 4. Checking data for normality and correlation, plus sample comparison test.](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_4)
+* [Project 5. Analysis of A/B testing results.](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_5)
