@@ -11,3 +11,4 @@ From the Skillfactory Data Science course
 * [Projact 4. Checking data for normality and correlation, plus sample comparison test.](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_4)
 * [Project 5. Analysis of A/B testing results.](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_5)
 * [Project 6. Practice. The classification task is based on the example of predicting the outflow of bank customers.](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_6)
+* [Project 7. Practice. The classification task is based on the example of predicting the outflow of bank customers.](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_7)
