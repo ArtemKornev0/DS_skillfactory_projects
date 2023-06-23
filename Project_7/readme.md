@@ -1,5 +1,3 @@
-# Practice. The classification task is based on the example of predicting the outflow of bank customers.
-
 ## Practice. Methods for selecting important features for use in predictive ML models.
 
 Задача оценки использования двух методов выбора важных признаков для использования в обучении модели логистической регрессии.
