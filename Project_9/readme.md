@@ -1,6 +1,6 @@
-## Practice. Linear regression using the least squares method. Polynomial regression and regularization.
+# Practice. Linear regression using the least squares method. Polynomial regression and regularization.
 
-Практика. Линейная регрессия по методу наименьших квадратов. Полиномиальная регрессия и регуляризация.
+## Практика. Линейная регрессия по методу наименьших квадратов. Полиномиальная регрессия и регуляризация.
 
 Задача — построить регрессионную модель, которая прогнозирует выработку газа на скважине на основе остальных характеристик скважины, и проинтерпретировать результаты работы модели.
 

@@ -1,6 +1,6 @@
-## Practice. Methods for selecting important features for use in predictive ML models.
+# Practice. Methods for selecting important features for use in predictive ML models.
 
-Задача оценки использования двух методов выбора важных признаков для использования в обучении модели логистической регрессии.
+## Задача оценки использования двух методов выбора важных признаков для использования в обучении модели логистической регрессии.
 
 Данные - датасет с данными стоимости и характеристик автомобилей на вторичном рынке.
 

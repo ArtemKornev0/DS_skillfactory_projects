@@ -13,3 +13,4 @@ From the Skillfactory Data Science course
 * [Project 6. Practice. The classification task is based on the example of predicting the outflow of bank customers.](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_6)
 * [Project 7. Practice. Methods for selecting important features for use in predictive ML models](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_7)
 * [Project 8. Practice. The task of predicting the biological response (binary classification problem).](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_8)
+* [Project 9. Practice. Linear regression using the least squares method. Polynomial regression and regularization.](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_9)

@@ -1,6 +1,6 @@
-## Practice. The task of predicting the biological response (binary classification problem).
+# Practice. The task of predicting the biological response (binary classification problem).
 
-Задача прогнозирования биологического ответа (задача бинарной классификации).
+## Задача прогнозирования биологического ответа (задача бинарной классификации).
 
 Необходимо обучить две модели: логистическую регрессию и случайный лес. Далее нужно сделать подбор гиперпараметров с помощью базовых и продвинутых методов оптимизации. Важно использовать все четыре метода (GridSeachCV, RandomizedSearchCV, Hyperopt, Optuna) хотя бы по разу, максимальное количество итераций не должно превышать 50.
 В качестве метрики будем использовать F1-score.
