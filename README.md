@@ -15,3 +15,4 @@ From the Skillfactory Data Science course
 * [Project 8. Practice. The task of predicting the biological response (binary classification problem).](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_8)
 * [Project 9. Practice. Linear regression using the least squares method. Polynomial regression and regularization.](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_9)
 * [Project 10. Practice. Linear regression using the least squares method. Polynomial regression and regularization.](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_10)
+* [Project 11. Practice. Classification. A naive Bayesian classifier for a classification problem.](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_11)
