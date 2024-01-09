@@ -4,6 +4,7 @@
 
 import numpy as np
 
+
 def random_predict(number:int=1) -> int:
     """Randomly guess the number
 
@@ -32,18 +33,18 @@ def score_game(random_predict) -> int:
     Returns:
         int: average number of attempts
     """
-    
+
     count_ls = [] # list of number of attempts
     np.random.seed(1) # we fix the seed for reproducibility
     random_array = np.random.randint(1,101,size=(1000)) # made a list of numbers
-    
+
     for number in random_array:
         count_ls.append(random_predict(number)) # made a list of attempts
-        
+
     score = int(np.mean(count_ls)) # we find the average number of attempts
 
     print(f'Your algorithme guesses the number for {score} attepmtes')
-    
+
     return score
 
 # RUN
